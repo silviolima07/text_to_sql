@@ -1,0 +1,11 @@
+[project]
+name = "text-to-sql"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai-tools>=0.14.0",
+    "crewai>=0.83.0",
+    "streamlit>=1.40.2",
+]

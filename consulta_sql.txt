@@ -1,0 +1,4 @@
+```sql
+SELECT DISTINCT Períodos
+FROM dados;
+```

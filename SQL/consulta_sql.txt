@@ -1,0 +1,3 @@
+SELECT COUNT(DISTINCT Localidades) AS Total_Cidades
+FROM dados
+WHERE "Renda per Capita - Censo Demográfico (Em reais correntes)" > 1000000;
